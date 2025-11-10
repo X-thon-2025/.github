@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0A1E40,75:1E90FF,100:87CEFA&height=160&section=header&fontSize=0&animation=fadeIn" width="100%" alt="X-thon 2025 Header"/>
+</p>
+
 # 🚀 X-THON 2025 — Open Innovation Hackathon
 
 > **창의적인 개발자들이 모여 오픈 협업을 통해 미래를 만들어가는 해커톤**
