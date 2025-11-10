@@ -4,7 +4,7 @@
 
 # 🚀 X-THON 2025 — Open Innovation Hackathon
 
-> **창의적인 개발자들이 모여 오픈 협업을 통해 미래를 만들어가는 해커톤**
+> **다양한 전공의 동국대학교 재학생들이 창의적인 협업으로 새로운 가치를 만들어가는 해커톤**
 <p>
   <kbd style="background-color:#f2f2f2; padding:8px 14px; border-radius:8px; font-size:14px;">
     🏫 <b>주최 · 주관 :</b> 
