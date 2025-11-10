@@ -5,12 +5,19 @@
 # 🚀 X-THON 2025 — Open Innovation Hackathon
 
 > **창의적인 개발자들이 모여 오픈 협업을 통해 미래를 만들어가는 해커톤**
+<p>
+  <kbd style="background-color:#f2f2f2; padding:8px 14px; border-radius:8px; font-size:14px;">
+    🏫 <b>주최 · 주관 :</b> 
+    <a href="https://itcec.dongguk.edu/main" target="_blank"><b>동국대학교 소프트웨어교육원</b></a> · 
+    <b>첨단융합대학</b>
+  </kbd>
+</p>
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hackathon-X--THON_2025-blueviolet?style=for-the-badge&logo=github" />
-  <a href="https://notion.so/xthon-2025">
+  <a href="[https://notion.so/xthon-2025](https://www.notion.so/X-thon-2a258266bbdf80eaa1ade4ac3738c94e?source=copy_link)">
     <img src="https://img.shields.io/badge/Notion-공식%20문서-black?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Status-Open--for--Registration-brightgreen?style=for-the-badge" />
@@ -20,12 +27,12 @@
 
 ## 🧭 About X-THON
 
-**X-THON**은 오픈 소스 기반의 창의적 협업 해커톤입니다.  
-개발자, 디자이너, 기획자가 한 팀이 되어 혁신적인 아이디어를 실현합니다.  
+**X-THON**은 오픈 소스 기반의 융합·창의 해커톤입니다.
+개발자, 디자이너, 기획자 등 다양한 전공의 학생들이 한 팀을 이루어AI 전환(AX) 시대에 (주제) 문제를 해결하고, 혁신적인 아이디어를 실현합니다.
 
-- 💡 **목표:** 협업을 통한 오픈 이노베이션  
+- 💡 **목표:** AI 전환(AX) 시대에 (주제)를 해결하는 창의적·혁신적 프로젝트 개발
 - 🌍 **형태:** 완전 공개형 해커톤 (모든 저장소는 Public)  
-- 🧑‍🤝‍🧑 **참가자:** 개발자 · 디자이너 · 기획자 누구나  
+- 🧑‍🤝‍🧑 **참가자:** 동국대학교 재학생 (전공무관) 
 - 🏗️ **진행:** GitHub Organization 단위의 팀 운영  
 
 ---
@@ -34,10 +41,9 @@
 
 | 단계 | 일정 | 내용 |
 |:----|:------|:------|
-| 📝 팀 등록 마감 | 2025.11.14 | 팀 구성 및 오거나이제이션 생성 |
 | 📢 주제 공개 | 2025.11.19 | X-THON 주제 공개 |
-| 💻 본 해커톤 | 2025.11.22 ~ 2025.11.23 | 48시간 집중 개발 |
-| 🧾 결과 제출 | 2025.11.23 | 프로젝트 링크 및 설명 제출 |
+| 💻 본 해커톤 | 2025.11.22 ~ 2025.11.23 | 약 26시간 집중 개발 |
+| 🧾 결과 제출 | 2025.11.23 | 프로젝트 링크 및 최종 제출물 제출 |
 | 🏆 시상 및 발표 | 2025.11.23 | 우수 프로젝트 시상식 |
 
 ---
@@ -97,7 +103,7 @@
 
 ## 📢 Contact & Community
 
-- 📮 문의: 첨단융합대학 회장 서예원 (전화번호)
+- 📮 문의: 첨단융합대학 학생회장 서예원 (010-5337-1687), 첨단융합대학 부학생회장 최희수 (010-6799-2933)
 - 💬 첨단융합대학 학생회: dgu.ace.college@gmail.com
 - 🌐 공식 인스타그램: @dgu_ace
 
