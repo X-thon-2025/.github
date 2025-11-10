@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hackathon-X--THON_2025-blueviolet?style=for-the-badge&logo=github" />
-  <a href="[https://notion.so/xthon-2025](https://www.notion.so/X-thon-2a258266bbdf80eaa1ade4ac3738c94e?source=copy_link)">
+  <a href="[https://www.notion.so/X-thon-2a258266bbdf80eaa1ade4ac3738c94e?source=copy_link]">
     <img src="https://img.shields.io/badge/Notion-공식%20문서-black?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Status-Open--for--Registration-brightgreen?style=for-the-badge" />
