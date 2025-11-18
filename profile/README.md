@@ -28,9 +28,9 @@
 ## 🧭 About X-THON
 
 **X-THON**은 오픈 소스 기반의 융합·창의 해커톤입니다.
-개발자, 디자이너, 기획자 등 다양한 전공의 학생들이 한 팀을 이루어AI 전환(AX) 시대에 (주제) 문제를 해결하고, 혁신적인 아이디어를 실현합니다.
+개발자, 디자이너, 기획자 등 다양한 전공의 학생들이 한 팀을 이루어 AI 전환(AX) 시대에 (주제-19일 공개 예정) 문제를 해결하고, 혁신적인 아이디어를 실현합니다.
 
-- 💡 **목표:** AI 전환(AX) 시대에 (주제)를 해결하는 창의적·혁신적 프로젝트 개발
+- 💡 **목표:** AI 전환(AX) 시대에 (주제 - 19일 공개예정)를 해결하는 창의적·혁신적 프로젝트 개발
 - 🌍 **형태:** 완전 공개형 해커톤 (모든 저장소는 Public)  
 - 🧑‍🤝‍🧑 **참가자:** 동국대학교 재학생 (전공무관) 
 - 🏗️ **진행:** GitHub Organization 단위의 팀 운영  
@@ -61,7 +61,7 @@
 
 ## 📜 Rules
 
-- 모든 코드는 **공개(Public)** 로 유지됩니다.  
+- 모든 코드는 **공개(Public)** 로 유지해야합니다.
 - 외부 오픈소스 사용 시 **라이선스 명시** 필수.  
 - 프로젝트는 팀 구성원 전원의 **기여 내역(Commit 기록)** 을 포함해야 합니다.  
 - 제출물은 다음을 포함해야 합니다:  
@@ -73,20 +73,20 @@
 
 | 🏷️ 팀 | 🚀 저장소명 | 🔗 GitHub 링크 | 📘 프로젝트 설명 |
 |:--:|:--|:--|:--|
-| **Team 0 — Chord** | `2025_X_Thon_Team0_Chord` | [🔗 바로가기](https://github.com/X-thon-2025/2025_X_Thon_Team0_Chord) | 음악 협업 플랫폼 |
-| **Team 1 — Nexus** | `2025_X_Thon_Team1_Nexus` | [🔗 바로가기](https://github.com/X-thon-2025/2025_X_Thon_Team1_Nexus) | 소셜 연결 허브 서비스 |
-| **Team 2 — Wave** | `2025_X_Thon_Team2_Wave` | [🔗 바로가기](https://github.com/X-thon-2025/2025_X_Thon_Team2_Wave) | AI 음성 인식 서비스 |
-| **Team 3 — Orbit** | `2025_X_Thon_Team3_Orbit` | [🔗 바로가기](https://github.com/X-thon-2025/2025_X_Thon_Team3_Orbit) | IoT 기반 스마트 홈 제어 |
-| **Team 4 — Pulse** | `2025_X_Thon_Team4_Pulse` | [🔗 바로가기](https://github.com/X-thon-2025/2025_X_Thon_Team4_Pulse) | 헬스케어 & 피트니스 트래킹 |
-| **Team 5 — Echo** | `2025_X_Thon_Team5_Echo` | [🔗 바로가기](https://github.com/X-thon-2025/2025_X_Thon_Team5_Echo) | 실시간 커뮤니티 메시징 앱 |
-| **Team 6 — Nova** | `2025_X_Thon_Team6_Nova` | [🔗 바로가기](https://github.com/X-thon-2025/2025_X_Thon_Team6_Nova) | AI 기반 쇼핑 추천 시스템 |
-| **Team 7 — Insight** | `2025_X_Thon_Team7_Insight` | [🔗 바로가기](https://github.com/X-thon-2025/2025_X_Thon_Team7_Insight) | 데이터 분석 시각화 플랫폼 |
-| **Team 8 — Pixel** | `2025_X_Thon_Team8_Pixel` | [🔗 바로가기](https://github.com/X-thon-2025/2025_X_Thon_Team8_Pixel) | 인디 게임 개발 프로젝트 |
-| **Team 9 — Bloom** | `2025_X_Thon_Team9_Bloom` | [🔗 바로가기](https://github.com/X-thon-2025/2025_X_Thon_Team9_Bloom) | 감정 기반 저널링 앱 |
-| **Team 10 — Fusion** | `2025_X_Thon_Team10_Fusion` | [🔗 바로가기](https://github.com/X-thon-2025/2025_X_Thon_Team10_Fusion) | 협업형 AI 코딩 어시스턴트 |
-| **Team 11 — Cipher** | `2025_X_Thon_Team11_Cipher` | [🔗 바로가기](https://github.com/X-thon-2025/2025_X_Thon_Team11_Cipher) | 블록체인 기반 인증 서비스 |
-| **Team 12 — Genome** | `2025_X_Thon_Team12_Genome` | [🔗 바로가기](https://github.com/X-thon-2025/2025_X_Thon_Team12_Genome) | 바이오데이터 분석 플랫폼 |
-| **Team 13 — Terra** | `2025_X_Thon_Team13_Terra` | [🔗 바로가기](https://github.com/X-thon-2025/2025_X_Thon_Team13_Terra) | 환경 데이터 기반 지속가능성 프로젝트 |
+| **Team 0 — Chord** | `2025_X_Thon_Team0_Chord` | [🔗 바로가기](링크) | 예) 소셜 연결 허브 서비스 |
+| **Team 1 — 팀이름** | `2025_X_Thon_Team1_팀이름` | [🔗 바로가기](링크) |  |
+| **Team 2 — 팀이름** | `2025_X_Thon_Team2_팀이름` | [🔗 바로가기](링크) |  |
+| **Team 3 — 팀이름** | `2025_X_Thon_Team3_팀이름` | [🔗 바로가기](링크) |  |
+| **Team 4 — 팀이름** | `2025_X_Thon_Team4_팀이름` | [🔗 바로가기](링크) |  |
+| **Team 5 — 팀이름** | `2025_X_Thon_Team5_팀이름` | [🔗 바로가기](링크) |  |
+| **Team 6 — 팀이름** | `2025_X_Thon_Team6_팀이름` | [🔗 바로가기](링크) |  |
+| **Team 7 — 팀이름** | `2025_X_Thon_Team7_팀이름` | [🔗 바로가기](링크) |  |
+| **Team 8 — 팀이름** | `2025_X_Thon_Team8_팀이름` | [🔗 바로가기](링크) |  |
+| **Team 9 — 팀이름** | `2025_X_Thon_Team9_팀이름` | [🔗 바로가기](링크) |  |
+| **Team 10 — 팀이름** | `2025_X_Thon_Team10_팀이름` | [🔗 바로가기](링크) |  |
+| **Team 11 — 팀이름** | `2025_X_Thon_Team11_팀이름` | [🔗 바로가기](링크) |  |
+| **Team 12 — 팀이름** | `2025_X_Thon_Team12_팀이름` | [🔗 바로가기](링크) |  |
+| **Team 13 — 팀이름** | `2025_X_Thon_Team13_팀이름` | [🔗 바로가기](링크) |  |
 
 ---
 
