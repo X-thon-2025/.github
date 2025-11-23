@@ -75,9 +75,9 @@
 |:--:|:--|:--|
 | **Team 1 — 0xC0DE** | [🔗2025-X-Thon-Team1-0xC0DE](https://github.com/2025-X-Thon-Team1-0xC0DE) | 글쓰기 가이드 플랫폼 |
 | **Team 2 — 콩짝콩짝두근두근** | [🔗2025-X-Thon-Team2-kongjjagkongjjagdugeundugeun](https://github.com/2025-X-Thon-Team2) | 두 AI의 교차 검증으로 신뢰도를 높이는 AI 플랫폼 |
-| **Team 3 — 참의슬** | [🔗 바로가기](링크) |  |
-| **Team 4 — 오류났조** | [🔗 바로가기](링크) |  |
-| **Team 5 — 릴딸기농장** | [🔗 바로가기](링크) |  |
+| **Team 3 — 참의슬** | [🔗2025-X-Thon-Team3-ChamUiSeul](https://github.com/2025-X-Thon-Team3-ChamUiSeul/2025-X-Thon-Team3-ChamUiSeul.git) | Welfy(웰피) : 복지 서비스 신청을 도와주는 맞춤형 대화 AI 에이전트 |
+| **Team 4 — 오류났조** | [🔗2025-X-Thon-Team4-OhRyuNotJo](https://github.com/2025-X-Thon-Team4-OhRyuNotJo) | AI 기반 경험 심층 분석 및 포트폴리오 자동 생성 솔루션 |
+| **Team 5 — 릴딸기농장** | [🔗2025-X-Thon-Team5-lillstrawberryfarm](https://github.com/2025-X-Thon-Team5-lillstrawberryfarm) | AI 기반 청년 소비 분석 시스템	 |
 | **Team 6 — 내가 뭘 잘못했지?** | [🔗2025-X-Thon-Team6-Chord](https://github.com/2025XThonTeam6Chord) | ESM 모듈형 심리 검사 및 연계 서비스 |
 | **Team 7 — 아융이에융** | [🔗2025-X-Thon-Team7-Ayungieyong](https://github.com/2025-X-Thon-Team7-Ayungieyong) | AI Agent를 활용한 사용자 맞춤형 커리어 코칭 플랫폼 |
 | **Team 8 — NEXCODE** | [🔗2025-X-Thon-Team8-NEXCODE](https://github.com/X-THON-2025-Team8-NEXCODE) | 스와이프 기반 소비 평가로 청년의 금융 리터러시를 높이는 AI 서비스 |
