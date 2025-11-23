@@ -80,7 +80,7 @@
 | **Team 5 — 릴딸기농장** | `2025-X-Thon-Team5-팀이름` | [🔗 바로가기](링크) |  |
 | **Team 6 — 내가 뭘 잘못했지?** | `2025-X-Thon-Team6-팀이름` | [🔗 바로가기](링크) |  |
 | **Team 7 — 아융이에융** | `2025-X-Thon-Team7-Ayungieyong` | [🔗 바로가기](https://github.com/2025-X-Thon-Team7-Ayungieyong) | AI Agent를 활용한 사용자 맞춤형 커리어 코칭 플랫폼 |
-| **Team 8 — NEXCODE** | `2025-X-Thon-Team8-팀이름` | [🔗 바로가기](링크) |  |
+| **Team 8 — NEXCODE** | `2025-X-Thon-Team8-NEXCODE` | [🔗 바로가기](https://github.com/X-THON-2025-Team8-NEXCODE) | 스와이프 기반 소비 평가로 청년의 금융 리터러시를 높이는 AI 서비스 |
 | **Team 9 — 청년9조대** | `2025-X-Thon-Team9-팀이름` | [🔗 바로가기](링크) |  |
 | **Team 10 — 잡으숏** | `2025-X-Thon-Team10-JobShorts` | [🔗 바로가기](https://github.com/2025-X-Thon-Team10-JobShorts) | 30초만에 만나는 청년 인재 숏폼 채용 플랫폼 |
 | **Team 11 — 뒷걸음** | `2025-X-Thon-Team11-팀이름` | [🔗 바로가기](링크) |  |
