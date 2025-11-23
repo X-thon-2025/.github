@@ -71,21 +71,21 @@
 ---
 ## 👥 팀별 조직 목록
 
-| 🏷️ 팀 | 🚀 저장소명 | 🔗 GitHub 링크 | 📘 프로젝트 설명 |
-|:--:|:--|:--|:--|
-| **Team 1 — 0xC0DE** | `2025-X-Thon-Team1-0xC0DE` | [🔗 바로가기](https://github.com/2025-X-Thon-Team1-0xC0DE) | 글쓰기 가이드 플랫폼 |
-| **Team 2 — 콩짝콩짝두근두근** | `2025-X-Thon-Team2-kongjjagkongjjagdugeundugeun` | [🔗 바로가기](https://github.com/2025-X-Thon-Team2) | 두 AI의 교차 검증으로 신뢰도를 높이는 AI 플랫폼 |
-| **Team 3 — 참의슬** | `2025-X-Thon-Team3-팀이름` | [🔗 바로가기](링크) |  |
-| **Team 4 — 오류났조** | `2025-X-Thon-Team4-팀이름` | [🔗 바로가기](링크) |  |
-| **Team 5 — 릴딸기농장** | `2025-X-Thon-Team5-팀이름` | [🔗 바로가기](링크) |  |
-| **Team 6 — 내가 뭘 잘못했지?** | `2025-X-Thon-Team6-팀이름` | [🔗 바로가기](링크) |  |
-| **Team 7 — 아융이에융** | `2025-X-Thon-Team7-Ayungieyong` | [🔗 바로가기](https://github.com/2025-X-Thon-Team7-Ayungieyong) | AI Agent를 활용한 사용자 맞춤형 커리어 코칭 플랫폼 |
-| **Team 8 — NEXCODE** | `2025-X-Thon-Team8-NEXCODE` | [🔗 바로가기](https://github.com/X-THON-2025-Team8-NEXCODE) | 스와이프 기반 소비 평가로 청년의 금융 리터러시를 높이는 AI 서비스 |
-| **Team 9 — 청년9조대** | `2025-X-Thon-Team9-팀이름` | [🔗 바로가기](링크) |  |
-| **Team 10 — 잡으숏** | `2025-X-Thon-Team10-JobShorts` | [🔗 바로가기](https://github.com/2025-X-Thon-Team10-JobShorts) | 30초만에 만나는 청년 인재 숏폼 채용 플랫폼 |
-| **Team 11 — 뒷걸음** | `2025-X-Thon-Team11-팀이름` | [🔗 바로가기](링크) |  |
-| **Team 12 — Team SYNC:12** | `2025-X-Thon-Team12-팀이름` | [🔗 바로가기](링크) |  |
-| **Team 13 — 모여보조** | `2025-X-Thon-Team13-Moabojo` | [🔗 바로가기](https://github.com/2025-X-Thon-Team13-Moabojo) | 팀원을 모으기 어려운 청년들을 위한 서비스 |
+| 🏷️ 팀  | 🔗 GitHub 링크 | 📘 프로젝트 설명 |
+|:--:|:--|:--|
+| **Team 1 — 0xC0DE** | [🔗2025-X-Thon-Team1-0xC0DE](https://github.com/2025-X-Thon-Team1-0xC0DE) | 글쓰기 가이드 플랫폼 |
+| **Team 2 — 콩짝콩짝두근두근** | [🔗2025-X-Thon-Team2-kongjjagkongjjagdugeundugeun](https://github.com/2025-X-Thon-Team2) | 두 AI의 교차 검증으로 신뢰도를 높이는 AI 플랫폼 |
+| **Team 3 — 참의슬** | [🔗 바로가기](링크) |  |
+| **Team 4 — 오류났조** | [🔗 바로가기](링크) |  |
+| **Team 5 — 릴딸기농장** | [🔗 바로가기](링크) |  |
+| **Team 6 — 내가 뭘 잘못했지?** | [🔗2025-X-Thon-Team6-Chord](https://github.com/2025XThonTeam6Chord) | ESM 모듈형 심리 검사 및 연계 서비스 |
+| **Team 7 — 아융이에융** | [🔗2025-X-Thon-Team7-Ayungieyong](https://github.com/2025-X-Thon-Team7-Ayungieyong) | AI Agent를 활용한 사용자 맞춤형 커리어 코칭 플랫폼 |
+| **Team 8 — NEXCODE** | [🔗2025-X-Thon-Team8-NEXCODE](https://github.com/X-THON-2025-Team8-NEXCODE) | 스와이프 기반 소비 평가로 청년의 금융 리터러시를 높이는 AI 서비스 |
+| **Team 9 — 청년9조대** | [🔗2025-X-Thon-Team9-UNVEIL](https://github.com/2025-X-Thon-Team9-UNVEIL) | 청년 1인 가구 안심 자취 솔루션 |
+| **Team 10 — 잡으숏** | [🔗2025-X-Thon-Team10-JobShorts](https://github.com/2025-X-Thon-Team10-JobShorts) | 30초만에 만나는 청년 인재 숏폼 채용 플랫폼 |
+| **Team 11 — 뒷걸음** | [🔗X-THON-2025-Team11-BACKSTEP](https://github.com/X-THON-2025-Team11-BACKSTEP) | 실패를 자산으로 만드는 청년들의 리부트 플랫폼 |
+| **Team 12 — Team SYNC:12** | [🔗2025-X-Thon-Team12-Team-SYNC-12](https://github.com/2025-X-Thon-Team12-Team-SYNC-12) |  Dr. Prompt 대학생을 위한 프롬프트 엔지니어링 도우미 웹사이트 |
+| **Team 13 — 모여보조** | [🔗2025-X-Thon-Team13-Moabojo](https://github.com/2025-X-Thon-Team13-Moabojo) | 팀원을 모으기 어려운 청년들을 위한 서비스 |
 
 
 ---
